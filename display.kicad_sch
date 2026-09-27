@@ -1368,7 +1368,7 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 95.25) (xy 90.17 96.52)
+			(xy 90.17 104.14) (xy 90.17 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1378,7 +1378,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 105.41) (xy 90.17 105.41)
+			(xy 91.44 114.3) (xy 90.17 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1388,7 +1388,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 95.25) (xy 190.5 95.25)
+			(xy 189.23 104.14) (xy 190.5 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1398,7 +1398,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 105.41) (xy 139.7 105.41)
+			(xy 140.97 114.3) (xy 139.7 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1408,7 +1408,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 95.25) (xy 140.97 95.25)
+			(xy 139.7 104.14) (xy 140.97 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1428,7 +1428,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 90.17) (xy 82.55 71.12)
+			(xy 82.55 99.06) (xy 82.55 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1438,7 +1438,17 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 95.25) (xy 91.44 95.25)
+			(xy 82.55 90.17) (xy 82.55 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18d45578-2a49-42a2-979b-8d19b1c94ceb")
+	)
+	(wire
+		(pts
+			(xy 90.17 104.14) (xy 91.44 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1448,7 +1458,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 105.41) (xy 73.66 105.41)
+			(xy 74.93 114.3) (xy 73.66 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1458,7 +1468,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 95.25) (xy 123.19 96.52)
+			(xy 123.19 104.14) (xy 123.19 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1468,7 +1478,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 95.25) (xy 157.48 95.25)
+			(xy 156.21 104.14) (xy 157.48 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1478,7 +1488,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 105.41) (xy 189.23 105.41)
+			(xy 190.5 114.3) (xy 189.23 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1578,7 +1588,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 104.14) (xy 73.66 105.41)
+			(xy 73.66 113.03) (xy 73.66 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1588,7 +1598,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 104.14) (xy 123.19 105.41)
+			(xy 123.19 113.03) (xy 123.19 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1598,7 +1608,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 100.33) (xy 148.59 101.6)
+			(xy 148.59 109.22) (xy 148.59 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1618,7 +1628,7 @@
 	)
 	(wire
 		(pts
-			(xy 157.48 105.41) (xy 156.21 105.41)
+			(xy 157.48 114.3) (xy 156.21 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1638,7 +1648,7 @@
 	)
 	(wire
 		(pts
-			(xy 82.55 100.33) (xy 82.55 101.6)
+			(xy 82.55 109.22) (xy 82.55 110.49)
 		)
 		(stroke
 			(width 0)
@@ -1678,7 +1688,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 104.14) (xy 189.23 105.41)
+			(xy 189.23 113.03) (xy 189.23 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1688,7 +1698,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 105.41) (xy 172.72 105.41)
+			(xy 173.99 114.3) (xy 172.72 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1708,7 +1718,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 104.14) (xy 139.7 105.41)
+			(xy 139.7 113.03) (xy 139.7 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1718,7 +1728,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 95.25) (xy 107.95 95.25)
+			(xy 106.68 104.14) (xy 107.95 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1728,7 +1738,17 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 90.17) (xy 148.59 81.28)
+			(xy 198.12 99.06) (xy 198.12 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70000414-659b-4118-957b-d9c14425049f")
+	)
+	(wire
+		(pts
+			(xy 148.59 99.06) (xy 148.59 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1738,7 +1758,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 105.41) (xy 123.19 105.41)
+			(xy 124.46 114.3) (xy 123.19 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1758,7 +1778,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 104.14) (xy 156.21 105.41)
+			(xy 156.21 113.03) (xy 156.21 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1768,7 +1788,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 95.25) (xy 172.72 96.52)
+			(xy 172.72 104.14) (xy 172.72 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1788,7 +1808,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 104.14) (xy 172.72 105.41)
+			(xy 172.72 113.03) (xy 172.72 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1798,7 +1818,17 @@
 	)
 	(wire
 		(pts
-			(xy 90.17 104.14) (xy 90.17 105.41)
+			(xy 115.57 97.79) (xy 115.57 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "944efe1b-03e9-4552-97c4-c1a32299c399")
+	)
+	(wire
+		(pts
+			(xy 90.17 113.03) (xy 90.17 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1808,7 +1838,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 95.25) (xy 74.93 95.25)
+			(xy 73.66 104.14) (xy 74.93 104.14)
 		)
 		(stroke
 			(width 0)
@@ -1818,7 +1848,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 105.41) (xy 106.68 105.41)
+			(xy 107.95 114.3) (xy 106.68 114.3)
 		)
 		(stroke
 			(width 0)
@@ -1858,13 +1888,33 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 100.33) (xy 198.12 101.6)
+			(xy 198.12 109.22) (xy 198.12 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "a0a1d0a8-a704-4bf1-9fc5-b13eed0633e1")
+	)
+	(wire
+		(pts
+			(xy 99.06 90.17) (xy 99.06 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a420f6f8-0ac2-4b79-8b99-0a9def8d7ebc")
+	)
+	(wire
+		(pts
+			(xy 132.08 97.79) (xy 132.08 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9aadb0f-ecc5-41f1-a561-54c98cbf95dd")
 	)
 	(wire
 		(pts
@@ -1898,7 +1948,17 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 95.25) (xy 106.68 96.52)
+			(xy 165.1 97.79) (xy 165.1 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b779500b-95cf-4b9f-a67c-e5474cf862bd")
+	)
+	(wire
+		(pts
+			(xy 106.68 104.14) (xy 106.68 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1928,7 +1988,7 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 95.25) (xy 156.21 96.52)
+			(xy 156.21 104.14) (xy 156.21 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1938,7 +1998,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 95.25) (xy 189.23 96.52)
+			(xy 189.23 104.14) (xy 189.23 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1948,7 +2008,7 @@
 	)
 	(wire
 		(pts
-			(xy 73.66 95.25) (xy 73.66 96.52)
+			(xy 73.66 104.14) (xy 73.66 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1958,7 +2018,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 95.25) (xy 139.7 96.52)
+			(xy 139.7 104.14) (xy 139.7 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1988,13 +2048,23 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 100.33) (xy 115.57 101.6)
+			(xy 115.57 109.22) (xy 115.57 110.49)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "dee9760c-1a10-43dc-bc2c-4940abf1b240")
+	)
+	(wire
+		(pts
+			(xy 148.59 90.17) (xy 148.59 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e588d93f-6e56-42c5-812a-ebedd2f8a827")
 	)
 	(wire
 		(pts
@@ -2008,7 +2078,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 90.17) (xy 99.06 73.66)
+			(xy 99.06 99.06) (xy 99.06 97.79)
 		)
 		(stroke
 			(width 0)
@@ -2018,7 +2088,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 100.33) (xy 132.08 101.6)
+			(xy 132.08 109.22) (xy 132.08 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2038,7 +2108,17 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 100.33) (xy 181.61 101.6)
+			(xy 181.61 97.79) (xy 181.61 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2eb3616-38bd-45a9-b0fe-fecd1ed8b5bd")
+	)
+	(wire
+		(pts
+			(xy 181.61 109.22) (xy 181.61 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2048,7 +2128,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 100.33) (xy 165.1 101.6)
+			(xy 165.1 109.22) (xy 165.1 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2058,7 +2138,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 95.25) (xy 124.46 95.25)
+			(xy 123.19 104.14) (xy 124.46 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2068,7 +2148,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 100.33) (xy 99.06 101.6)
+			(xy 99.06 109.22) (xy 99.06 110.49)
 		)
 		(stroke
 			(width 0)
@@ -2078,7 +2158,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 95.25) (xy 173.99 95.25)
+			(xy 172.72 104.14) (xy 173.99 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2088,7 +2168,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 104.14) (xy 106.68 105.41)
+			(xy 106.68 113.03) (xy 106.68 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2098,7 +2178,7 @@
 	)
 	(hierarchical_label "A"
 		(shape input)
-		(at 74.93 105.41 0)
+		(at 74.93 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2109,7 +2189,7 @@
 	)
 	(hierarchical_label "B"
 		(shape input)
-		(at 91.44 105.41 0)
+		(at 91.44 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2120,7 +2200,7 @@
 	)
 	(hierarchical_label "C"
 		(shape input)
-		(at 107.95 105.41 0)
+		(at 107.95 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2131,7 +2211,7 @@
 	)
 	(hierarchical_label "G"
 		(shape input)
-		(at 173.99 105.41 0)
+		(at 173.99 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2142,7 +2222,7 @@
 	)
 	(hierarchical_label "E"
 		(shape input)
-		(at 140.97 105.41 0)
+		(at 140.97 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2153,7 +2233,7 @@
 	)
 	(hierarchical_label "D"
 		(shape input)
-		(at 124.46 105.41 0)
+		(at 124.46 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2164,7 +2244,7 @@
 	)
 	(hierarchical_label "DP"
 		(shape input)
-		(at 190.5 105.41 0)
+		(at 190.5 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2175,7 +2255,7 @@
 	)
 	(hierarchical_label "F"
 		(shape input)
-		(at 157.48 105.41 0)
+		(at 157.48 114.3 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2186,7 +2266,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 165.1 101.6 0)
+		(at 165.1 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2197,7 +2277,7 @@
 		(fields_autoplaced yes)
 		(uuid "094c1b36-63c1-46fb-9fcb-fc55a1630df4")
 		(property "Reference" "#PWR05"
-			(at 165.1 107.95 0)
+			(at 165.1 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2208,7 +2288,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 165.1 106.68 0)
+			(at 165.1 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2219,7 +2299,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 165.1 101.6 0)
+			(at 165.1 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2230,7 +2310,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 165.1 101.6 0)
+			(at 165.1 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2241,7 +2321,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 165.1 101.6 0)
+			(at 165.1 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2264,8 +2344,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 132.08 101.6 0)
+		(lib_id "Device:R")
+		(at 148.59 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2273,32 +2353,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1fd32c3a-2fe2-46a9-82cb-c1538c6bc3fa")
-		(property "Reference" "#PWR07"
-			(at 132.08 107.95 0)
-			(hide yes)
+		(uuid "1c28851d-0f31-47fb-a57e-0221d1a3808b")
+		(property "Reference" "R13"
+			(at 146.05 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "GND"
-			(at 132.08 106.68 0)
-			(hide yes)
+		(property "Value" "R"
+			(at 146.05 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 132.08 101.6 0)
+			(at 146.812 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2309,7 +2388,170 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 132.08 101.6 0)
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "59a515ae-221f-4cf7-8e91-fe08869949e2")
+		)
+		(pin "1"
+			(uuid "27fe3ff0-b44b-4080-9c66-6e3cc4cfecbe")
+		)
+		(instances
+			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 198.12 93.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "1cf3542c-f74d-4365-8d8e-a08e84d7e21d")
+		(property "Reference" "R16"
+			(at 195.58 92.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R"
+			(at 195.58 95.2499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 196.342 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 198.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 198.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "0b904592-3893-4b47-aca8-a74e26284ab6")
+		)
+		(pin "1"
+			(uuid "9d375b86-f0bf-4dfc-a868-c2e59a4c2721")
+		)
+		(instances
+			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 132.08 110.49 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1fd32c3a-2fe2-46a9-82cb-c1538c6bc3fa")
+		(property "Reference" "#PWR07"
+			(at 132.08 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 132.08 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2320,7 +2562,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 132.08 101.6 0)
+			(at 132.08 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2344,8 +2586,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 172.72 100.33 0)
-		(mirror y)
+		(at 132.08 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2353,31 +2594,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "24b239d1-0149-49be-a956-818f786c8108")
-		(property "Reference" "R6"
-			(at 178.054 99.06 0)
+		(uuid "21476445-ebe4-42cf-93ad-2503183b1da2")
+		(property "Reference" "R4"
+			(at 129.54 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "5k1"
-			(at 178.054 101.6 0)
+		(property "Value" "R"
+			(at 129.54 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 174.498 100.33 90)
+		(property "Footprint" ""
+			(at 130.302 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2388,7 +2629,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 172.72 100.33 0)
+			(at 132.08 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2399,7 +2640,89 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 172.72 100.33 0)
+			(at 132.08 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "8b08afb9-f0f4-4835-acf2-ac8b452afb39")
+		)
+		(pin "1"
+			(uuid "92118443-eca3-4385-bc81-b38bcbc180b4")
+		)
+		(instances
+			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 172.72 109.22 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "24b239d1-0149-49be-a956-818f786c8108")
+		(property "Reference" "R6"
+			(at 178.054 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5k1"
+			(at 178.054 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 174.498 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 172.72 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 172.72 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2410,7 +2733,7 @@
 			)
 		)
 		(property "Manufacturer" "Uniroyal Elec"
-			(at 172.72 100.33 90)
+			(at 172.72 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2421,7 +2744,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "0402WGF5101TCE"
-			(at 172.72 100.33 90)
+			(at 172.72 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2432,7 +2755,7 @@
 			)
 		)
 		(property "Basic" "Y"
-			(at 172.72 100.33 90)
+			(at 172.72 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2443,7 +2766,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25905"
-			(at 172.72 100.33 90)
+			(at 172.72 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2470,7 +2793,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN24H11DS")
-		(at 80.01 95.25 0)
+		(at 80.01 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2480,7 +2803,7 @@
 		(dnp no)
 		(uuid "32154c71-554a-452e-bd99-b9218087e036")
 		(property "Reference" "Q8"
-			(at 85.344 93.472 0)
+			(at 85.344 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2491,7 +2814,7 @@
 			)
 		)
 		(property "Value" "HL2300"
-			(at 86.36 96.5199 0)
+			(at 86.36 105.4099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2503,7 +2826,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 85.09 97.155 0)
+			(at 85.09 106.045 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2516,7 +2839,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN24H11DS.pdf"
-			(at 85.09 99.06 0)
+			(at 85.09 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2528,7 +2851,7 @@
 			)
 		)
 		(property "Description" "0.27A Id, 240V Vds, N-Channel MOSFET, SOT-23"
-			(at 80.01 95.25 0)
+			(at 80.01 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2558,7 +2881,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 198.12 101.6 0)
+		(at 198.12 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2569,7 +2892,7 @@
 		(fields_autoplaced yes)
 		(uuid "3843b47d-072e-4f64-8582-1caba3369b57")
 		(property "Reference" "#PWR01"
-			(at 198.12 107.95 0)
+			(at 198.12 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2580,7 +2903,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 198.12 106.68 0)
+			(at 198.12 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2591,7 +2914,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 101.6 0)
+			(at 198.12 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2602,7 +2925,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 101.6 0)
+			(at 198.12 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2613,7 +2936,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 198.12 101.6 0)
+			(at 198.12 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2709,6 +3032,87 @@
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 115.57 93.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "5f54b95c-2773-4cab-bec0-f740d387fcb1")
+		(property "Reference" "R3"
+			(at 113.03 92.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R"
+			(at 113.03 95.2499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 113.792 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 115.57 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 115.57 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "dc3c3a4a-d3fe-4c57-9696-1af0fc9eac9e")
+		)
+		(pin "1"
+			(uuid "8d411566-f61b-4e24-932d-e191c000e292")
+		)
+		(instances
+			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -2966,7 +3370,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN24H11DS")
-		(at 113.03 95.25 0)
+		(at 113.03 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2976,7 +3380,7 @@
 		(dnp no)
 		(uuid "6caf9acb-87ba-4c24-98d4-5016fd6b89c7")
 		(property "Reference" "Q6"
-			(at 118.364 93.472 0)
+			(at 118.364 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2987,7 +3391,7 @@
 			)
 		)
 		(property "Value" "HL2300"
-			(at 119.38 96.5199 0)
+			(at 119.38 105.4099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2999,7 +3403,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 118.11 97.155 0)
+			(at 118.11 106.045 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3012,7 +3416,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN24H11DS.pdf"
-			(at 118.11 99.06 0)
+			(at 118.11 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3024,7 +3428,7 @@
 			)
 		)
 		(property "Description" "0.27A Id, 240V Vds, N-Channel MOSFET, SOT-23"
-			(at 113.03 95.25 0)
+			(at 113.03 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3054,7 +3458,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN24H11DS")
-		(at 162.56 95.25 0)
+		(at 162.56 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3064,7 +3468,7 @@
 		(dnp no)
 		(uuid "715d28c4-b5ff-45f1-8db7-b6a67dc4573f")
 		(property "Reference" "Q3"
-			(at 167.894 93.472 0)
+			(at 167.894 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3075,7 +3479,7 @@
 			)
 		)
 		(property "Value" "HL2300"
-			(at 168.91 96.5199 0)
+			(at 168.91 105.4099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3087,7 +3491,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 167.64 97.155 0)
+			(at 167.64 106.045 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3100,7 +3504,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN24H11DS.pdf"
-			(at 167.64 99.06 0)
+			(at 167.64 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3112,7 +3516,7 @@
 			)
 		)
 		(property "Description" "0.27A Id, 240V Vds, N-Channel MOSFET, SOT-23"
-			(at 162.56 95.25 0)
+			(at 162.56 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3141,8 +3545,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 148.59 101.6 0)
+		(lib_id "Device:R")
+		(at 181.61 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3150,32 +3554,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7bb9acc2-4ec6-4420-93dd-a72cec13817e")
-		(property "Reference" "#PWR06"
-			(at 148.59 107.95 0)
-			(hide yes)
+		(uuid "736009bd-3b4c-4b18-8248-942ba42e50a6")
+		(property "Reference" "R15"
+			(at 179.07 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "GND"
-			(at 148.59 106.68 0)
-			(hide yes)
+		(property "Value" "R"
+			(at 179.07 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 148.59 101.6 0)
+			(at 179.832 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3186,7 +3589,89 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 148.59 101.6 0)
+			(at 181.61 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 181.61 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "4af1113a-d46a-4364-a60e-a7596a80d8f3")
+		)
+		(pin "1"
+			(uuid "6f4c514b-2c4f-45d9-87ef-d323dc7866f5")
+		)
+		(instances
+			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 148.59 110.49 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7bb9acc2-4ec6-4420-93dd-a72cec13817e")
+		(property "Reference" "#PWR06"
+			(at 148.59 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 148.59 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 148.59 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3197,7 +3682,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 148.59 101.6 0)
+			(at 148.59 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3221,7 +3706,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN24H11DS")
-		(at 195.58 95.25 0)
+		(at 195.58 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3231,7 +3716,7 @@
 		(dnp no)
 		(uuid "7f26586b-6462-494e-99a8-b63a29cd7168")
 		(property "Reference" "Q1"
-			(at 200.914 93.472 0)
+			(at 200.914 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3242,7 +3727,7 @@
 			)
 		)
 		(property "Value" "HL2300"
-			(at 201.93 96.5199 0)
+			(at 201.93 105.4099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3254,7 +3739,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 200.66 97.155 0)
+			(at 200.66 106.045 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3267,7 +3752,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN24H11DS.pdf"
-			(at 200.66 99.06 0)
+			(at 200.66 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3279,7 +3764,7 @@
 			)
 		)
 		(property "Description" "0.27A Id, 240V Vds, N-Channel MOSFET, SOT-23"
-			(at 195.58 95.25 0)
+			(at 195.58 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3309,8 +3794,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 139.7 100.33 0)
-		(mirror y)
+		(at 82.55 93.98 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3318,31 +3802,31 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(uuid "99c3b9dc-9af7-4066-82a3-3a56100a8b36")
-		(property "Reference" "R8"
-			(at 145.034 99.06 0)
+		(uuid "899f356e-ddbf-4a75-aa30-72fef751402f")
+		(property "Reference" "R1"
+			(at 80.01 92.7099 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "5k1"
-			(at 145.034 101.6 0)
+		(property "Value" "R"
+			(at 80.01 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 141.478 100.33 90)
+		(property "Footprint" ""
+			(at 80.772 93.98 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3353,7 +3837,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 139.7 100.33 0)
+			(at 82.55 93.98 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3364,7 +3848,89 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 139.7 100.33 0)
+			(at 82.55 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "938b7786-b99a-42f4-887b-bad4b4e2d468")
+		)
+		(pin "1"
+			(uuid "49212e68-3fd4-450f-a0bb-6fc164fa0e77")
+		)
+		(instances
+			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 139.7 109.22 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "99c3b9dc-9af7-4066-82a3-3a56100a8b36")
+		(property "Reference" "R8"
+			(at 145.034 107.95 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "5k1"
+			(at 145.034 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+			(at 141.478 109.22 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 139.7 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3375,7 +3941,7 @@
 			)
 		)
 		(property "Manufacturer" "Uniroyal Elec"
-			(at 139.7 100.33 90)
+			(at 139.7 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3386,7 +3952,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "0402WGF5101TCE"
-			(at 139.7 100.33 90)
+			(at 139.7 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3397,7 +3963,7 @@
 			)
 		)
 		(property "Basic" "Y"
-			(at 139.7 100.33 90)
+			(at 139.7 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3408,7 +3974,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25905"
-			(at 139.7 100.33 90)
+			(at 139.7 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3435,7 +4001,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 90.17 100.33 0)
+		(at 90.17 109.22 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -3446,7 +4012,7 @@
 		(dnp no)
 		(uuid "99ea1842-37a6-4650-a03c-b75b77cd68cc")
 		(property "Reference" "R11"
-			(at 95.504 99.06 0)
+			(at 95.504 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3457,7 +4023,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 95.504 101.6 0)
+			(at 95.504 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3468,7 +4034,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 91.948 100.33 90)
+			(at 91.948 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3479,7 +4045,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 90.17 100.33 0)
+			(at 90.17 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3490,7 +4056,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 90.17 100.33 0)
+			(at 90.17 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3501,7 +4067,7 @@
 			)
 		)
 		(property "Manufacturer" "Uniroyal Elec"
-			(at 90.17 100.33 90)
+			(at 90.17 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3512,7 +4078,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "0402WGF5101TCE"
-			(at 90.17 100.33 90)
+			(at 90.17 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3523,7 +4089,7 @@
 			)
 		)
 		(property "Basic" "Y"
-			(at 90.17 100.33 90)
+			(at 90.17 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3534,7 +4100,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25905"
-			(at 90.17 100.33 90)
+			(at 90.17 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3560,8 +4126,89 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R")
+		(at 165.1 93.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9b39b5e7-0c21-4a21-a35f-56901edf2143")
+		(property "Reference" "R14"
+			(at 162.56 92.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R"
+			(at 162.56 95.2499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 163.322 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 165.1 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 165.1 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "a80ef1b7-7891-4ac8-a6cf-293312e6955d")
+		)
+		(pin "1"
+			(uuid "9ff0221b-8b4c-430e-8c46-77fd279ce347")
+		)
+		(instances
+			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Transistor_FET:DMN24H11DS")
-		(at 146.05 95.25 0)
+		(at 146.05 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3571,7 +4218,7 @@
 		(dnp no)
 		(uuid "9d09ecb9-a07d-4457-883a-fa1da8104924")
 		(property "Reference" "Q4"
-			(at 151.384 93.472 0)
+			(at 151.384 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3582,7 +4229,7 @@
 			)
 		)
 		(property "Value" "HL2300"
-			(at 152.4 96.5199 0)
+			(at 152.4 105.4099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3594,7 +4241,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 151.13 97.155 0)
+			(at 151.13 106.045 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3607,7 +4254,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN24H11DS.pdf"
-			(at 151.13 99.06 0)
+			(at 151.13 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3619,7 +4266,7 @@
 			)
 		)
 		(property "Description" "0.27A Id, 240V Vds, N-Channel MOSFET, SOT-23"
-			(at 146.05 95.25 0)
+			(at 146.05 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3649,7 +4296,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 99.06 101.6 0)
+		(at 99.06 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3660,7 +4307,7 @@
 		(fields_autoplaced yes)
 		(uuid "b8324c81-23b2-4a6f-bdc6-3460a4120001")
 		(property "Reference" "#PWR09"
-			(at 99.06 107.95 0)
+			(at 99.06 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3671,7 +4318,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 99.06 106.68 0)
+			(at 99.06 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3682,7 +4329,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 99.06 101.6 0)
+			(at 99.06 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3693,7 +4340,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 99.06 101.6 0)
+			(at 99.06 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3704,7 +4351,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 99.06 101.6 0)
+			(at 99.06 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3728,7 +4375,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 189.23 100.33 0)
+		(at 189.23 109.22 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -3739,7 +4386,7 @@
 		(dnp no)
 		(uuid "bb88d9a0-fbfd-466d-87ac-c08b3f27e058")
 		(property "Reference" "R5"
-			(at 194.564 99.06 0)
+			(at 194.564 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3750,7 +4397,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 194.564 101.6 0)
+			(at 194.564 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3761,7 +4408,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 191.008 100.33 90)
+			(at 191.008 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3772,7 +4419,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 189.23 100.33 0)
+			(at 189.23 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3783,7 +4430,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 189.23 100.33 0)
+			(at 189.23 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3794,7 +4441,7 @@
 			)
 		)
 		(property "Manufacturer" "Uniroyal Elec"
-			(at 189.23 100.33 90)
+			(at 189.23 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3805,7 +4452,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "0402WGF5101TCE"
-			(at 189.23 100.33 90)
+			(at 189.23 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3816,7 +4463,7 @@
 			)
 		)
 		(property "Basic" "Y"
-			(at 189.23 100.33 90)
+			(at 189.23 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3827,7 +4474,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25905"
-			(at 189.23 100.33 90)
+			(at 189.23 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3854,7 +4501,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 123.19 100.33 0)
+		(at 123.19 109.22 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -3865,7 +4512,7 @@
 		(dnp no)
 		(uuid "be66a3aa-98ca-423f-adcd-213a5325427c")
 		(property "Reference" "R9"
-			(at 128.524 99.06 0)
+			(at 128.524 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3876,7 +4523,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 128.524 101.6 0)
+			(at 128.524 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3887,7 +4534,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 124.968 100.33 90)
+			(at 124.968 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3898,7 +4545,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 123.19 100.33 0)
+			(at 123.19 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3909,7 +4556,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 123.19 100.33 0)
+			(at 123.19 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3920,7 +4567,7 @@
 			)
 		)
 		(property "Manufacturer" "Uniroyal Elec"
-			(at 123.19 100.33 90)
+			(at 123.19 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3931,7 +4578,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "0402WGF5101TCE"
-			(at 123.19 100.33 90)
+			(at 123.19 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3942,7 +4589,7 @@
 			)
 		)
 		(property "Basic" "Y"
-			(at 123.19 100.33 90)
+			(at 123.19 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3953,7 +4600,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25905"
-			(at 123.19 100.33 90)
+			(at 123.19 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3973,6 +4620,87 @@
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
 					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 99.06 93.98 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "c7a02adc-3164-44f2-8b0c-36775fcea891")
+		(property "Reference" "R2"
+			(at 96.52 92.7099 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R"
+			(at 96.52 95.2499 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 97.282 93.98 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 99.06 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 99.06 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "d305727c-b44a-433b-ba84-0cea046933bb")
+		)
+		(pin "1"
+			(uuid "56d1430c-59e7-40ce-8438-b42028d92adf")
+		)
+		(instances
+			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -4162,7 +4890,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN24H11DS")
-		(at 96.52 95.25 0)
+		(at 96.52 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4172,7 +4900,7 @@
 		(dnp no)
 		(uuid "cbf9822c-23c3-4fc4-b9ba-0cfb318aa1cd")
 		(property "Reference" "Q7"
-			(at 101.854 93.472 0)
+			(at 101.854 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4183,7 +4911,7 @@
 			)
 		)
 		(property "Value" "HL2300"
-			(at 102.87 96.5199 0)
+			(at 102.87 105.4099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4195,7 +4923,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 101.6 97.155 0)
+			(at 101.6 106.045 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4208,7 +4936,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN24H11DS.pdf"
-			(at 101.6 99.06 0)
+			(at 101.6 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4220,7 +4948,7 @@
 			)
 		)
 		(property "Description" "0.27A Id, 240V Vds, N-Channel MOSFET, SOT-23"
-			(at 96.52 95.25 0)
+			(at 96.52 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4250,7 +4978,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN24H11DS")
-		(at 129.54 95.25 0)
+		(at 129.54 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4260,7 +4988,7 @@
 		(dnp no)
 		(uuid "cd48db5c-abd2-457a-9079-63128b0eefc5")
 		(property "Reference" "Q5"
-			(at 134.874 93.472 0)
+			(at 134.874 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4271,7 +4999,7 @@
 			)
 		)
 		(property "Value" "HL2300"
-			(at 135.89 96.5199 0)
+			(at 135.89 105.4099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4283,7 +5011,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 134.62 97.155 0)
+			(at 134.62 106.045 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4296,7 +5024,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN24H11DS.pdf"
-			(at 134.62 99.06 0)
+			(at 134.62 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4308,7 +5036,7 @@
 			)
 		)
 		(property "Description" "0.27A Id, 240V Vds, N-Channel MOSFET, SOT-23"
-			(at 129.54 95.25 0)
+			(at 129.54 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4338,7 +5066,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 82.55 101.6 0)
+		(at 82.55 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4349,7 +5077,7 @@
 		(fields_autoplaced yes)
 		(uuid "d3efce55-a984-44b9-b11a-90faef6e5435")
 		(property "Reference" "#PWR010"
-			(at 82.55 107.95 0)
+			(at 82.55 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4360,7 +5088,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 82.55 106.68 0)
+			(at 82.55 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4371,7 +5099,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 82.55 101.6 0)
+			(at 82.55 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4382,7 +5110,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 82.55 101.6 0)
+			(at 82.55 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4393,7 +5121,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 82.55 101.6 0)
+			(at 82.55 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4417,7 +5145,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 106.68 100.33 0)
+		(at 106.68 109.22 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4428,7 +5156,7 @@
 		(dnp no)
 		(uuid "d9eaf86b-2a41-4660-a79b-74a5ca0861e1")
 		(property "Reference" "R10"
-			(at 112.014 99.06 0)
+			(at 112.014 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4439,7 +5167,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 112.014 101.6 0)
+			(at 112.014 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4450,7 +5178,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 108.458 100.33 90)
+			(at 108.458 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4461,7 +5189,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 106.68 100.33 0)
+			(at 106.68 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4472,7 +5200,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 106.68 100.33 0)
+			(at 106.68 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4483,7 +5211,7 @@
 			)
 		)
 		(property "Manufacturer" "Uniroyal Elec"
-			(at 106.68 100.33 90)
+			(at 106.68 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4494,7 +5222,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "0402WGF5101TCE"
-			(at 106.68 100.33 90)
+			(at 106.68 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4505,7 +5233,7 @@
 			)
 		)
 		(property "Basic" "Y"
-			(at 106.68 100.33 90)
+			(at 106.68 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4516,7 +5244,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25905"
-			(at 106.68 100.33 90)
+			(at 106.68 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4543,7 +5271,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_FET:DMN24H11DS")
-		(at 179.07 95.25 0)
+		(at 179.07 104.14 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4553,7 +5281,7 @@
 		(dnp no)
 		(uuid "e132fcc0-80f9-4aa8-ba4e-5a0d7f5bb969")
 		(property "Reference" "Q2"
-			(at 184.404 93.472 0)
+			(at 184.404 102.362 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4564,7 +5292,7 @@
 			)
 		)
 		(property "Value" "HL2300"
-			(at 185.42 96.5199 0)
+			(at 185.42 105.4099 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4576,7 +5304,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
-			(at 184.15 97.155 0)
+			(at 184.15 106.045 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4589,7 +5317,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.diodes.com/assets/Datasheets/DMN24H11DS.pdf"
-			(at 184.15 99.06 0)
+			(at 184.15 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4601,7 +5329,7 @@
 			)
 		)
 		(property "Description" "0.27A Id, 240V Vds, N-Channel MOSFET, SOT-23"
-			(at 179.07 95.25 0)
+			(at 179.07 104.14 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4631,7 +5359,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 115.57 101.6 0)
+		(at 115.57 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4642,7 +5370,7 @@
 		(fields_autoplaced yes)
 		(uuid "e29d55ec-73c6-4c22-b6b5-1ae43ca1393f")
 		(property "Reference" "#PWR08"
-			(at 115.57 107.95 0)
+			(at 115.57 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4653,7 +5381,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 115.57 106.68 0)
+			(at 115.57 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4664,7 +5392,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 115.57 101.6 0)
+			(at 115.57 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4675,7 +5403,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 115.57 101.6 0)
+			(at 115.57 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4686,7 +5414,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 115.57 101.6 0)
+			(at 115.57 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4960,7 +5688,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 73.66 100.33 0)
+		(at 73.66 109.22 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -4971,7 +5699,7 @@
 		(dnp no)
 		(uuid "ecb69410-e91c-48e4-994f-9130bf155d9d")
 		(property "Reference" "R12"
-			(at 78.994 99.06 0)
+			(at 78.994 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4982,7 +5710,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 78.994 101.6 0)
+			(at 78.994 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4993,7 +5721,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 75.438 100.33 90)
+			(at 75.438 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5004,7 +5732,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 73.66 100.33 0)
+			(at 73.66 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5015,7 +5743,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 73.66 100.33 0)
+			(at 73.66 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5026,7 +5754,7 @@
 			)
 		)
 		(property "Manufacturer" "Uniroyal Elec"
-			(at 73.66 100.33 90)
+			(at 73.66 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5037,7 +5765,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "0402WGF5101TCE"
-			(at 73.66 100.33 90)
+			(at 73.66 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5048,7 +5776,7 @@
 			)
 		)
 		(property "Basic" "Y"
-			(at 73.66 100.33 90)
+			(at 73.66 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5059,7 +5787,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25905"
-			(at 73.66 100.33 90)
+			(at 73.66 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5086,7 +5814,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 181.61 101.6 0)
+		(at 181.61 110.49 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5097,7 +5825,7 @@
 		(fields_autoplaced yes)
 		(uuid "f21813a3-2b5b-4d38-8c15-3c23b6fd47af")
 		(property "Reference" "#PWR04"
-			(at 181.61 107.95 0)
+			(at 181.61 116.84 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5108,7 +5836,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 181.61 106.68 0)
+			(at 181.61 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5119,7 +5847,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 181.61 101.6 0)
+			(at 181.61 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5130,7 +5858,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 181.61 101.6 0)
+			(at 181.61 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5141,7 +5869,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 181.61 101.6 0)
+			(at 181.61 110.49 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5165,7 +5893,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 156.21 100.33 0)
+		(at 156.21 109.22 0)
 		(mirror y)
 		(unit 1)
 		(body_style 1)
@@ -5176,7 +5904,7 @@
 		(dnp no)
 		(uuid "fabe2e16-2280-440c-accd-d5ae7467947d")
 		(property "Reference" "R7"
-			(at 161.544 99.06 0)
+			(at 161.544 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5187,7 +5915,7 @@
 			)
 		)
 		(property "Value" "5k1"
-			(at 161.544 101.6 0)
+			(at 161.544 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5198,7 +5926,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
-			(at 157.988 100.33 90)
+			(at 157.988 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5209,7 +5937,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 100.33 0)
+			(at 156.21 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5220,7 +5948,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 156.21 100.33 0)
+			(at 156.21 109.22 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5231,7 +5959,7 @@
 			)
 		)
 		(property "Manufacturer" "Uniroyal Elec"
-			(at 156.21 100.33 90)
+			(at 156.21 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5242,7 +5970,7 @@
 			)
 		)
 		(property "Manufacturer Part Number" "0402WGF5101TCE"
-			(at 156.21 100.33 90)
+			(at 156.21 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5253,7 +5981,7 @@
 			)
 		)
 		(property "Basic" "Y"
-			(at 156.21 100.33 90)
+			(at 156.21 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5264,7 +5992,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C25905"
-			(at 156.21 100.33 90)
+			(at 156.21 109.22 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
