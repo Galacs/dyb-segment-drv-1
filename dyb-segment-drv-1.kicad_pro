@@ -279,6 +279,13 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "name": "INVERT",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgb(194, 0, 0)",
+        "tuning_profile": ""
       }
     ],
     "meta": {
@@ -286,7 +293,12 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "INVERT",
+        "pattern": "/*~{*}"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -429,7 +441,7 @@
         "uuid": "0d1f997b-7d97-47c3-85c1-1ce9346504d0"
       }
     ],
-    "used_designators": "C23-26,#PWR1-10,R1-20,Q1-8,U1-5",
+    "used_designators": "C23-26,#PWR1-13,R1-20,Q1-8,U1-12",
     "variants": []
   },
   "sheets": [
@@ -440,6 +452,10 @@
     [
       "87467506-67cb-4d30-a7bb-1a482c54d28a",
       "Display"
+    ],
+    [
+      "582f33c9-9ad9-4f6a-9bb1-4b7187c58e57",
+      "Segment Driver"
     ]
   ],
   "text_variables": {},

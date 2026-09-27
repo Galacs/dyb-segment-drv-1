@@ -1072,10 +1072,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2223f033-3d05-4cda-9d02-d0271a0d212c")
 		(property "Reference" "U3"
-			(at 146.05 43.18 0)
+			(at 145.5531 50.292 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1468,10 +1467,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9cc0fa18-61a5-44ce-9180-abdb84111c4b")
 		(property "Reference" "U2"
-			(at 104.1289 25.4 0)
+			(at 103.632 32.512 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1567,10 +1565,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dbb04299-79bb-4f84-83fb-34d2c6637ee3")
 		(property "Reference" "U2"
-			(at 104.1289 44.45 0)
+			(at 103.632 51.562 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1666,10 +1663,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "dff01ef7-fc15-4c4e-b265-fef4f0186ff9")
 		(property "Reference" "U3"
-			(at 146.05 25.4 0)
+			(at 145.5531 32.512 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1751,6 +1747,53 @@
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
 					(reference "U3")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 71.12)
+		(size 12.7 22.86)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "582f33c9-9ad9-4f6a-9bb1-4b7187c58e57")
+		(property "Sheetname" "Segment Driver"
+			(at 207.01 70.4084 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "driver.kicad_sch"
+			(at 207.01 94.5646 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
+					(page "3")
 				)
 			)
 		)
