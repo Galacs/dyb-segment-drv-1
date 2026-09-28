@@ -3602,7 +3602,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2083a58a-a0b0-4236-9053-e3bb566aeddd")
-		(property "Reference" "#PWR"
+		(property "Reference" "#PWR023"
 			(at 99.06 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -3661,6 +3661,10 @@
 		)
 		(instances
 			(project "dyb-segment-drv-1"
+				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/582f33c9-9ad9-4f6a-9bb1-4b7187c58e57/b1bc699d-a26b-4a14-a772-a4297de41040"
+					(reference "#PWR023")
+					(unit 1)
+				)
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/f9113593-2122-47ea-a937-8e7dedbee097/b1bc699d-a26b-4a14-a772-a4297de41040"
 					(reference "#PWR0111")
 					(unit 1)
