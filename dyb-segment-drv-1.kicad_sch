@@ -1170,10 +1170,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "55762eef-d474-49ce-a6fc-d65148838306")
 		(property "Reference" "U2"
-			(at 110.49 72.3899 0)
+			(at 105.664 79.248 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1271,10 +1270,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "7073904c-1a5f-4f3a-a169-1972f06ea8da")
 		(property "Reference" "U3"
-			(at 152.4 73.6599 0)
+			(at 147.574 80.518 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1330,28 +1328,28 @@
 			)
 		)
 		(pin "6"
-			(uuid "a409351f-4a1c-4dc5-bc83-1b03aaac1055")
+			(uuid "a409351f-4a1c-4dc5-bc83-1b03aaac1056")
 		)
 		(pin "3"
-			(uuid "0193bb2d-ae9a-41cc-bd0d-d7857a47af9b")
+			(uuid "0193bb2d-ae9a-41cc-bd0d-d7857a47af9c")
 		)
 		(pin "4"
-			(uuid "748b0242-c8f6-4f15-bcf5-2b7103811c21")
+			(uuid "748b0242-c8f6-4f15-bcf5-2b7103811c22")
 		)
 		(pin "8"
-			(uuid "5dfd2857-a5f1-431f-8c3e-19763b427840")
+			(uuid "5dfd2857-a5f1-431f-8c3e-19763b427841")
 		)
 		(pin "5"
-			(uuid "4e7bc95d-298f-4c55-80c8-65c02c86721d")
+			(uuid "4e7bc95d-298f-4c55-80c8-65c02c86721e")
 		)
 		(pin "2"
-			(uuid "002c93b1-3df9-45d1-a770-b8fb02387622")
+			(uuid "002c93b1-3df9-45d1-a770-b8fb02387623")
 		)
 		(pin "7"
-			(uuid "1e9cafff-9d29-4700-8fab-544486352481")
+			(uuid "1e9cafff-9d29-4700-8fab-544486352482")
 		)
 		(pin "1"
-			(uuid "84aee6e0-90f1-4688-b58a-250bfd96095f")
+			(uuid "84aee6e0-90f1-4688-b58a-250bfd960960")
 		)
 		(instances
 			(project "dyb-segment-drv-1"
@@ -1523,28 +1521,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "f5c2e177-61e4-464a-94bc-c75d0887a69a")
+			(uuid "f5c2e177-61e4-464a-94bc-c75d0887a69b")
 		)
 		(pin "3"
-			(uuid "2b7232d5-bfc7-4937-a4bb-7940f29a4b67")
+			(uuid "2b7232d5-bfc7-4937-a4bb-7940f29a4b68")
 		)
 		(pin "1"
-			(uuid "03e07281-eadb-40e1-bfe2-f7d4937a52d7")
+			(uuid "03e07281-eadb-40e1-bfe2-f7d4937a52d8")
 		)
 		(pin "4"
-			(uuid "c8a0ed69-7497-4f18-b803-f6d86d8cbc7d")
+			(uuid "c8a0ed69-7497-4f18-b803-f6d86d8cbc7e")
 		)
 		(pin "7"
-			(uuid "e34b3930-348d-4061-9410-ac61b611390a")
+			(uuid "e34b3930-348d-4061-9410-ac61b611390b")
 		)
 		(pin "5"
-			(uuid "75b31b95-044f-4510-9973-a50e0c33fcc0")
+			(uuid "75b31b95-044f-4510-9973-a50e0c33fcc1")
 		)
 		(pin "2"
-			(uuid "0c95e707-c8e7-4371-87c2-075f7d373f7a")
+			(uuid "0c95e707-c8e7-4371-87c2-075f7d373f7b")
 		)
 		(pin "6"
-			(uuid "a22392d8-5e6b-4074-a628-192084d108ca")
+			(uuid "a22392d8-5e6b-4074-a628-192084d108cb")
 		)
 		(instances
 			(project "dyb-segment-drv-1"
@@ -1621,28 +1619,28 @@
 			)
 		)
 		(pin "8"
-			(uuid "f5c2e177-61e4-464a-94bc-c75d0887a69a")
+			(uuid "f5c2e177-61e4-464a-94bc-c75d0887a69c")
 		)
 		(pin "3"
-			(uuid "2b7232d5-bfc7-4937-a4bb-7940f29a4b67")
+			(uuid "2b7232d5-bfc7-4937-a4bb-7940f29a4b69")
 		)
 		(pin "1"
-			(uuid "03e07281-eadb-40e1-bfe2-f7d4937a52d7")
+			(uuid "03e07281-eadb-40e1-bfe2-f7d4937a52d9")
 		)
 		(pin "4"
-			(uuid "c8a0ed69-7497-4f18-b803-f6d86d8cbc7d")
+			(uuid "c8a0ed69-7497-4f18-b803-f6d86d8cbc7f")
 		)
 		(pin "7"
-			(uuid "e34b3930-348d-4061-9410-ac61b611390a")
+			(uuid "e34b3930-348d-4061-9410-ac61b611390c")
 		)
 		(pin "5"
-			(uuid "75b31b95-044f-4510-9973-a50e0c33fcc0")
+			(uuid "75b31b95-044f-4510-9973-a50e0c33fcc2")
 		)
 		(pin "2"
-			(uuid "0c95e707-c8e7-4371-87c2-075f7d373f7a")
+			(uuid "0c95e707-c8e7-4371-87c2-075f7d373f7c")
 		)
 		(pin "6"
-			(uuid "a22392d8-5e6b-4074-a628-192084d108ca")
+			(uuid "a22392d8-5e6b-4074-a628-192084d108cc")
 		)
 		(instances
 			(project "dyb-segment-drv-1"
@@ -1719,28 +1717,28 @@
 			)
 		)
 		(pin "6"
-			(uuid "a409351f-4a1c-4dc5-bc83-1b03aaac1055")
+			(uuid "a409351f-4a1c-4dc5-bc83-1b03aaac1057")
 		)
 		(pin "3"
-			(uuid "0193bb2d-ae9a-41cc-bd0d-d7857a47af9b")
+			(uuid "0193bb2d-ae9a-41cc-bd0d-d7857a47af9d")
 		)
 		(pin "4"
-			(uuid "748b0242-c8f6-4f15-bcf5-2b7103811c21")
+			(uuid "748b0242-c8f6-4f15-bcf5-2b7103811c23")
 		)
 		(pin "8"
-			(uuid "5dfd2857-a5f1-431f-8c3e-19763b427840")
+			(uuid "5dfd2857-a5f1-431f-8c3e-19763b427842")
 		)
 		(pin "5"
-			(uuid "4e7bc95d-298f-4c55-80c8-65c02c86721d")
+			(uuid "4e7bc95d-298f-4c55-80c8-65c02c86721f")
 		)
 		(pin "2"
-			(uuid "002c93b1-3df9-45d1-a770-b8fb02387622")
+			(uuid "002c93b1-3df9-45d1-a770-b8fb02387624")
 		)
 		(pin "7"
-			(uuid "1e9cafff-9d29-4700-8fab-544486352481")
+			(uuid "1e9cafff-9d29-4700-8fab-544486352483")
 		)
 		(pin "1"
-			(uuid "84aee6e0-90f1-4688-b58a-250bfd96095f")
+			(uuid "84aee6e0-90f1-4688-b58a-250bfd960961")
 		)
 		(instances
 			(project "dyb-segment-drv-1"
