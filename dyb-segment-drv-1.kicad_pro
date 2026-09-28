@@ -441,7 +441,7 @@
         "uuid": "0d1f997b-7d97-47c3-85c1-1ce9346504d0"
       }
     ],
-    "used_designators": "C23-26,#PWR1-18,R1-20,Q1-8,U1-25",
+    "used_designators": "C8-33,#PWR1-86,R1-20,Q1-8,U1-29",
     "variants": []
   },
   "sheets": [
@@ -456,6 +456,10 @@
     [
       "582f33c9-9ad9-4f6a-9bb1-4b7187c58e57",
       "Segment Driver"
+    ],
+    [
+      "b1bc699d-a26b-4a14-a772-a4297de41040",
+      "Power"
     ]
   ],
   "text_variables": {},
