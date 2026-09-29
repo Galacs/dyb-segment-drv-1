@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "6516b4df-b425-4d21-924a-88da4c2533f0")
 	(paper "A4")
+	(title_block
+		(title "DYB Segment Driver 1")
+		(date "2026-09-29")
+		(rev "01")
+		(company "Rémi Ait-Younes")
+	)
 	(lib_symbols
 		(symbol "74xGxx:74AUC2G32"
 			(exclude_from_sim no)
