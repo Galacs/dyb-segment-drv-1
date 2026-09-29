@@ -3415,7 +3415,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "011eb6da-ea6a-4efe-993b-9c5efa97d8f1")
-		(property "Reference" "#PWR0181"
+		(property "Reference" "#PWR07"
 			(at 80.01 191.77 0)
 			(hide yes)
 			(show_name no)
@@ -3476,7 +3476,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#PWR0181")
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -3493,7 +3493,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0329730d-b0eb-4c29-b74f-6b6bded9ed98")
-		(property "Reference" "TP4"
+		(property "Reference" "TP5"
 			(at 128.778 76.2 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3555,7 +3555,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP4")
+					(reference "TP5")
 					(unit 1)
 				)
 			)
@@ -3758,7 +3758,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1d62e832-6839-4b8e-aa34-b2c1b9e981d5")
-		(property "Reference" "#PWR0175"
+		(property "Reference" "#PWR03"
 			(at 39.37 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -3819,7 +3819,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#PWR0175")
+					(reference "#PWR03")
 					(unit 1)
 				)
 			)
@@ -3836,7 +3836,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2074eb10-0e48-4106-ac6a-e162052ca412")
-		(property "Reference" "#PWR0173"
+		(property "Reference" "#PWR01"
 			(at 20.32 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -3896,7 +3896,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#PWR0173")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -3913,7 +3913,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2eff6fa1-3451-408f-a637-6afb52bb4a04")
-		(property "Reference" "TP6"
+		(property "Reference" "TP7"
 			(at 128.778 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3975,7 +3975,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP6")
+					(reference "TP7")
 					(unit 1)
 				)
 			)
@@ -3992,7 +3992,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "320bab6e-8d30-47f0-84f1-395c4af6abc6")
-		(property "Reference" "TP8"
+		(property "Reference" "TP1"
 			(at 46.228 175.768 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4054,7 +4054,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP8")
+					(reference "TP1")
 					(unit 1)
 				)
 			)
@@ -4071,7 +4071,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "429b9704-e231-4df5-849c-1d1d991641f4")
-		(property "Reference" "TP23"
+		(property "Reference" "TP24"
 			(at 159.258 110.49 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4133,7 +4133,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP23")
+					(reference "TP24")
 					(unit 1)
 				)
 			)
@@ -4151,7 +4151,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "45a28d6c-b1b0-42d1-a9c0-cd888b3cf52f")
-		(property "Reference" "#PWR0176"
+		(property "Reference" "#PWR04"
 			(at 50.8 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -4212,7 +4212,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#PWR0176")
+					(reference "#PWR04")
 					(unit 1)
 				)
 			)
@@ -4230,7 +4230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4e42a6d9-d05b-46bc-9954-60ac3010a0a3")
-		(property "Reference" "#FLG02"
+		(property "Reference" "#FLG01"
 			(at 71.12 191.135 0)
 			(hide yes)
 			(show_name no)
@@ -4291,7 +4291,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#FLG02")
+					(reference "#FLG01")
 					(unit 1)
 				)
 			)
@@ -4308,7 +4308,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4f12817b-b67b-47d5-9ec1-b4ccdeb07bee")
-		(property "Reference" "TP26"
+		(property "Reference" "TP25"
 			(at 159.258 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4370,7 +4370,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP26")
+					(reference "TP25")
 					(unit 1)
 				)
 			)
@@ -4387,7 +4387,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "50391e7e-4f3e-4594-a858-d72aea746c64")
-		(property "Reference" "TP7"
+		(property "Reference" "TP8"
 			(at 128.778 83.82 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4449,7 +4449,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP7")
+					(reference "TP8")
 					(unit 1)
 				)
 			)
@@ -4467,7 +4467,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50b2a129-ffac-48f3-bc36-4b345e998a17")
-		(property "Reference" "C61"
+		(property "Reference" "C2"
 			(at 54.61 185.4199 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4575,7 +4575,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "C61")
+					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -4593,7 +4593,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50d5e7e4-5922-4a81-8574-8771b8476e80")
-		(property "Reference" "#PWR0178"
+		(property "Reference" "#PWR06"
 			(at 76.2 196.85 0)
 			(hide yes)
 			(show_name no)
@@ -4654,7 +4654,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#PWR0178")
+					(reference "#PWR06")
 					(unit 1)
 				)
 			)
@@ -4830,7 +4830,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5bdb6ff3-560b-414b-a0bc-81d1d34d265f")
-		(property "Reference" "#PWR0180"
+		(property "Reference" "#PWR09"
 			(at 123.19 100.33 0)
 			(hide yes)
 			(show_name no)
@@ -4891,7 +4891,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#PWR0180")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -4908,7 +4908,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5e75cb3c-f49c-4f6c-bf27-177b79d6f2a6")
-		(property "Reference" "TP20"
+		(property "Reference" "TP21"
 			(at 159.258 102.87 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4970,7 +4970,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP20")
+					(reference "TP21")
 					(unit 1)
 				)
 			)
@@ -4987,7 +4987,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "62a325a2-5095-4b59-934b-f3d4c9e3d239")
-		(property "Reference" "#PWR0177"
+		(property "Reference" "#PWR05"
 			(at 53.34 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -5047,7 +5047,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#PWR0177")
+					(reference "#PWR05")
 					(unit 1)
 				)
 			)
@@ -5422,7 +5422,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "74fbb534-35a8-47bb-b262-7b5d8c8c380f")
-		(property "Reference" "TP22"
+		(property "Reference" "TP23"
 			(at 159.258 107.95 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5484,7 +5484,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP22")
+					(reference "TP23")
 					(unit 1)
 				)
 			)
@@ -5501,7 +5501,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "81faf0f3-35c5-45f9-87ea-37eeef193325")
-		(property "Reference" "TP27"
+		(property "Reference" "TP17"
 			(at 159.258 86.36 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5563,7 +5563,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP27")
+					(reference "TP17")
 					(unit 1)
 				)
 			)
@@ -5738,7 +5738,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9250a2a2-2d1c-4708-a31a-d45f9690bee7")
-		(property "Reference" "TP2"
+		(property "Reference" "TP3"
 			(at 128.778 71.12 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5800,7 +5800,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP2")
+					(reference "TP3")
 					(unit 1)
 				)
 			)
@@ -5817,7 +5817,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "96700ec0-f477-4a33-a03a-137b343ec562")
-		(property "Reference" "TP18"
+		(property "Reference" "TP19"
 			(at 159.258 97.79 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5879,7 +5879,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP18")
+					(reference "TP19")
 					(unit 1)
 				)
 			)
@@ -5896,7 +5896,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a0bb23b4-aea8-4d2c-8062-60ce5126c9b6")
-		(property "Reference" "#PWR0179"
+		(property "Reference" "#PWR08"
 			(at 92.71 181.61 0)
 			(hide yes)
 			(show_name no)
@@ -5956,7 +5956,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#PWR0179")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -5974,7 +5974,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "aba2b7e1-63e1-4347-a4e8-8047b3531970")
-		(property "Reference" "#PWR0174"
+		(property "Reference" "#PWR02"
 			(at 22.86 198.12 0)
 			(hide yes)
 			(show_name no)
@@ -6035,7 +6035,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#PWR0174")
+					(reference "#PWR02")
 					(unit 1)
 				)
 			)
@@ -6131,7 +6131,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b1a40d6a-9a86-4e48-b723-ad18de4560c3")
-		(property "Reference" "TP17"
+		(property "Reference" "TP18"
 			(at 159.258 95.25 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6193,7 +6193,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP17")
+					(reference "TP18")
 					(unit 1)
 				)
 			)
@@ -6210,7 +6210,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b2b751de-728c-482f-87f8-364b3694086c")
-		(property "Reference" "TP3"
+		(property "Reference" "TP4"
 			(at 128.778 73.66 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6272,7 +6272,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP3")
+					(reference "TP4")
 					(unit 1)
 				)
 			)
@@ -6290,7 +6290,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c1caf650-7c0e-4599-8e53-60602bb2457f")
-		(property "Reference" "#FLG01"
+		(property "Reference" "#FLG02"
 			(at 92.71 183.515 0)
 			(hide yes)
 			(show_name no)
@@ -6351,7 +6351,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "#FLG01")
+					(reference "#FLG02")
 					(unit 1)
 				)
 			)
@@ -6501,7 +6501,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c654d016-572c-4ed4-852f-56d22d340022")
-		(property "Reference" "TP5"
+		(property "Reference" "TP6"
 			(at 128.778 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6563,7 +6563,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP5")
+					(reference "TP6")
 					(unit 1)
 				)
 			)
@@ -6741,7 +6741,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d19c8364-229c-44c3-8fe3-1c02aa46379a")
-		(property "Reference" "C60"
+		(property "Reference" "C1"
 			(at 20.066 185.42 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6849,7 +6849,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "C60")
+					(reference "C1")
 					(unit 1)
 				)
 			)
@@ -6867,7 +6867,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9aa54cf-2058-4083-9e17-ad8bdb3b7128")
-		(property "Reference" "JP4"
+		(property "Reference" "JP1"
 			(at 26.67 179.578 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6930,7 +6930,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "JP4")
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -6947,7 +6947,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "dad5365c-f546-4cfa-a821-bd5a6a9dc498")
-		(property "Reference" "TP21"
+		(property "Reference" "TP22"
 			(at 159.258 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7009,7 +7009,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP21")
+					(reference "TP22")
 					(unit 1)
 				)
 			)
@@ -7026,7 +7026,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e7400363-da77-4b72-b4d3-acf1fb69d7aa")
-		(property "Reference" "TP1"
+		(property "Reference" "TP2"
 			(at 128.778 68.58 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7088,7 +7088,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP1")
+					(reference "TP2")
 					(unit 1)
 				)
 			)
@@ -7184,7 +7184,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ffc6d55e-8067-4b0b-81eb-1870a9d9b04a")
-		(property "Reference" "TP19"
+		(property "Reference" "TP20"
 			(at 159.258 100.33 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7246,7 +7246,7 @@
 		(instances
 			(project "dyb-segment-drv-1"
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0"
-					(reference "TP19")
+					(reference "TP20")
 					(unit 1)
 				)
 			)
