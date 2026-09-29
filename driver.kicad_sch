@@ -1310,18 +1310,6 @@
 		(uuid "6d4f04d8-3397-4ce1-bd95-db3490742563")
 	)
 	(junction
-		(at 156.21 116.84)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6de09036-01ce-4e49-9dce-d2ac6ae1df60")
-	)
-	(junction
-		(at 144.78 113.03)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6f68b757-acb5-4423-b4e6-e68f5752fd1b")
-	)
-	(junction
 		(at 34.29 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1350,12 +1338,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5b06b93-c6e2-4261-be76-5c2b0c043010")
-	)
-	(junction
-		(at 152.4 77.47)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b11baa3c-a84b-4c15-8e6e-6d26b17c1be9")
 	)
 	(junction
 		(at 156.21 104.14)
@@ -1977,16 +1959,6 @@
 	)
 	(wire
 		(pts
-			(xy 152.4 77.47) (xy 152.4 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "365f9f66-0ece-4805-aa18-b50f8846014b")
-	)
-	(wire
-		(pts
 			(xy 233.68 86.36) (xy 233.68 77.47)
 		)
 		(stroke
@@ -2044,16 +2016,6 @@
 			(type default)
 		)
 		(uuid "3d74130e-2394-4fa5-b223-934a1c42cab6")
-	)
-	(wire
-		(pts
-			(xy 148.59 26.67) (xy 148.59 139.7)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3df8fd89-64fe-4e98-bf5c-8debf21bdc1d")
 	)
 	(wire
 		(pts
@@ -2154,16 +2116,6 @@
 			(type default)
 		)
 		(uuid "45246804-e2a6-4c95-882e-6441875cb137")
-	)
-	(wire
-		(pts
-			(xy 144.78 113.03) (xy 144.78 127)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45a01f5b-69d0-46f4-92f8-a4328953be91")
 	)
 	(wire
 		(pts
@@ -3267,16 +3219,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 116.84) (xy 156.21 157.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1fede49-7204-4ebd-8e11-e5da603fc7d8")
-	)
-	(wire
-		(pts
 			(xy 83.82 25.4) (xy 85.09 25.4)
 		)
 		(stroke
@@ -3607,16 +3549,6 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 26.67) (xy 148.59 26.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f2f73894-ae68-40b4-84f7-0d57e745d874")
-	)
-	(wire
-		(pts
 			(xy 203.2 132.08) (xy 203.2 128.27)
 		)
 		(stroke
@@ -3794,16 +3726,6 @@
 			(justify right bottom)
 		)
 		(uuid "92aabcda-c5a3-4e2e-bf29-688b557968b6")
-	)
-	(label "~{D0}"
-		(at 146.05 26.67 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "a02626d8-156c-4fbc-b7eb-0e5e316a7fa7")
 	)
 	(label "~{D3}"
 		(at 168.91 26.67 0)
