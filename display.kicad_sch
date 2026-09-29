@@ -2369,7 +2369,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 146.05 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2380,7 +2380,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 146.812 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -2403,6 +2403,50 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25117"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 148.59 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF4700TCE"
 			(at 148.59 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -2454,7 +2498,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 195.58 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2465,7 +2509,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 196.342 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -2488,6 +2532,50 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 198.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 198.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25117"
+			(at 198.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 198.12 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF4700TCE"
 			(at 198.12 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -2622,7 +2710,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 129.54 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2633,7 +2721,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 130.302 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -2656,6 +2744,50 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 132.08 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 132.08 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25117"
+			(at 132.08 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 132.08 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF4700TCE"
 			(at 132.08 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -3095,7 +3227,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 113.03 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3106,7 +3238,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 113.792 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -3129,6 +3261,50 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 115.57 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 115.57 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25117"
+			(at 115.57 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 115.57 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF4700TCE"
 			(at 115.57 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -3622,7 +3798,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 179.07 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3633,7 +3809,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 179.832 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -3656,6 +3832,50 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 181.61 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 181.61 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25117"
+			(at 181.61 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 181.61 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF4700TCE"
 			(at 181.61 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -3882,7 +4102,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 80.01 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3893,7 +4113,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 80.772 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -3916,6 +4136,50 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 82.55 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 82.55 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25117"
+			(at 82.55 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 82.55 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF4700TCE"
 			(at 82.55 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -4227,7 +4491,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 162.56 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4238,7 +4502,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 163.322 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -4261,6 +4525,50 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 165.1 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 165.1 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25117"
+			(at 165.1 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 165.1 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF4700TCE"
 			(at 165.1 93.98 0)
 			(hide yes)
 			(show_name no)
@@ -4747,7 +5055,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "470"
 			(at 96.52 95.2499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4758,7 +5066,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 97.282 93.98 90)
 			(hide yes)
 			(show_name no)
@@ -4781,6 +5089,50 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 99.06 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Basic" "Y"
+			(at 99.06 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C25117"
+			(at 99.06 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer" "Uniroyal Elec"
+			(at 99.06 93.98 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part Number" "0402WGF4700TCE"
 			(at 99.06 93.98 0)
 			(hide yes)
 			(show_name no)
