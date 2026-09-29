@@ -13619,7 +13619,7 @@
 			(uuid "6d437779-935c-4002-b457-cc8b7405a501")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPDT_Shouhan_MSK12C02.step"
+		(model "/home/galacs/glcs-kicad-libraries/3dmodels/GLCS.3dshapes/MSK12C02.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -13627,7 +13627,7 @@
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
