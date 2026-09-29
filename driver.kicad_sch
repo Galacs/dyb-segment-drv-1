@@ -1556,12 +1556,6 @@
 		(uuid "3f8fbf7d-d3a7-44e5-baaa-7ffc5c32e7bf")
 	)
 	(junction
-		(at 116.84 16.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4105e72d-c835-47ff-8209-5ce8cbd30d84")
-	)
-	(junction
 		(at 83.82 25.4)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1728,7 +1722,7 @@
 		(uuid "93f63fa2-6cb0-4933-82c7-82c0aae12da4")
 	)
 	(no_connect
-		(at 144.78 19.05)
+		(at 146.05 19.05)
 		(uuid "945c35af-2a3f-4f5e-9509-96576035b76f")
 	)
 	(no_connect
@@ -3105,6 +3099,16 @@
 	)
 	(wire
 		(pts
+			(xy 118.11 16.51) (xy 116.84 16.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "99d870c4-9e45-4ab5-8272-4c19f196fa4a")
+	)
+	(wire
+		(pts
 			(xy 152.4 77.47) (xy 152.4 116.84)
 		)
 		(stroke
@@ -3785,16 +3789,6 @@
 	)
 	(wire
 		(pts
-			(xy 118.11 16.51) (xy 116.84 16.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e8795a50-445d-427a-a930-d73b1f56ad03")
-	)
-	(wire
-		(pts
 			(xy 105.41 168.91) (xy 105.41 170.18)
 		)
 		(stroke
@@ -4216,17 +4210,6 @@
 		)
 		(uuid "21e724dc-986e-4458-a726-0bc3f50d8fe5")
 	)
-	(hierarchical_label "DP"
-		(shape output)
-		(at 165.1 160.02 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "277940d5-767a-46b7-af35-2cec1efe3662")
-	)
 	(hierarchical_label "D0"
 		(shape input)
 		(at 93.98 177.8 180)
@@ -4325,17 +4308,6 @@
 			(justify left)
 		)
 		(uuid "d6397340-fa37-4cde-90c2-9e0b49f6b924")
-	)
-	(hierarchical_label "D3"
-		(shape input)
-		(at 167.64 26.67 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d6f6e621-b949-4851-9698-d473dffd6284")
 	)
 	(hierarchical_label "D1"
 		(shape input)
@@ -8907,7 +8879,7 @@
 	)
 	(symbol
 		(lib_id "74xGxx:74AUC2G32")
-		(at 132.08 19.05 0)
+		(at 133.35 19.05 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8917,7 +8889,7 @@
 		(dnp no)
 		(uuid "b390c1d3-33b7-4876-b1fc-3b95b4a6e5b6")
 		(property "Reference" "U19"
-			(at 130.3131 18.542 0)
+			(at 131.5831 18.542 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8927,7 +8899,7 @@
 			)
 		)
 		(property "Value" "74AUC2G32"
-			(at 130.81 11.43 0)
+			(at 132.08 11.43 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8938,7 +8910,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-20-1EP_5x5mm_P0.65mm_EP3.35x3.35mm"
-			(at 132.08 19.05 0)
+			(at 133.35 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8949,7 +8921,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.ti.com/lit/sg/scyt129e/scyt129e.pdf"
-			(at 132.08 19.05 0)
+			(at 133.35 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8960,7 +8932,7 @@
 			)
 		)
 		(property "Description" "Dual OR Gate, Low-Voltage CMOS"
-			(at 132.08 19.05 0)
+			(at 133.35 19.05 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
