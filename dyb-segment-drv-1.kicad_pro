@@ -554,23 +554,30 @@
         "wire_width": 6
       },
       {
+        "name": "DIGITAL",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": ""
+      },
+      {
         "name": "GND",
         "pcb_color": "rgb(132, 132, 132)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       },
       {
         "name": "INVERT",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "pcb_color": "rgb(194, 0, 194)",
+        "priority": 1,
         "schematic_color": "rgb(194, 0, 0)",
         "tuning_profile": ""
       },
       {
         "name": "PWR",
         "pcb_color": "rgb(255, 3, 17)",
-        "priority": 2,
+        "priority": 3,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "tuning_profile": ""
       }
@@ -592,6 +599,14 @@
       {
         "netclass": "INVERT",
         "pattern": "/*~{*}"
+      },
+      {
+        "netclass": "DIGITAL",
+        "pattern": "/A*"
+      },
+      {
+        "netclass": "DIGITAL",
+        "pattern": "/B*"
       }
     ]
   },
