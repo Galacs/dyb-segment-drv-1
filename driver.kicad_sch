@@ -4073,6 +4073,26 @@
 		)
 		(uuid "ffe3fd1d-4401-4127-b04c-870b5965fc7b")
 	)
+	(label "~{D3}"
+		(at 152.4 177.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1cc3541e-9e99-4059-8952-4c4feec4ede1")
+	)
+	(label "~{D0}"
+		(at 119.38 182.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "2ff74a05-c2ef-4458-8386-c462fd147304")
+	)
 	(label "~{D1}"
 		(at 153.67 26.67 0)
 		(effects
@@ -4104,6 +4124,16 @@
 		(uuid "675fe712-c0f9-400b-a8be-96bf9797c9a7")
 	)
 	(label "~{D1}"
+		(at 119.38 177.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "6f0e4525-b04c-4c43-b5f3-24bb020b9928")
+	)
+	(label "~{D1}"
 		(at 24.13 26.67 0)
 		(effects
 			(font
@@ -4113,25 +4143,15 @@
 		)
 		(uuid "726480d7-44e6-4f47-aacc-ebfdd9487887")
 	)
-	(label "~{D1}"
-		(at 119.38 182.88 180)
+	(label "~{D2}"
+		(at 152.4 182.88 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
 			(justify right bottom)
 		)
-		(uuid "77b855ff-344a-4818-b966-8ff974bdfa38")
-	)
-	(label "~{D0}"
-		(at 119.38 177.8 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "92aabcda-c5a3-4e2e-bf29-688b557968b6")
+		(uuid "8f292826-d57f-4f4c-97a5-a105754082aa")
 	)
 	(label "~{D3}"
 		(at 168.91 26.67 0)
@@ -4152,26 +4172,6 @@
 			(justify left bottom)
 		)
 		(uuid "cc4a4e6d-facd-43eb-be56-5234aad2abad")
-	)
-	(label "~{D3}"
-		(at 152.4 182.88 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ec74a8da-1701-44bf-a7f9-14e95b33a086")
-	)
-	(label "~{D2}"
-		(at 152.4 177.8 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "fd94bb0d-59cb-4503-9f0f-751a5b145d4b")
 	)
 	(label "~{D2}"
 		(at 31.75 26.67 0)
@@ -4194,6 +4194,17 @@
 		)
 		(uuid "037d9492-54a0-42b0-8901-ca1bf980fd52")
 	)
+	(hierarchical_label "D3"
+		(shape input)
+		(at 127 177.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "03f457c6-ff0a-40bb-94be-44ff17366d4a")
+	)
 	(hierarchical_label "B"
 		(shape output)
 		(at 134.62 74.93 0)
@@ -4205,6 +4216,17 @@
 		)
 		(uuid "0934115a-811f-44b4-9125-5e2fda239b19")
 	)
+	(hierarchical_label "D1"
+		(shape input)
+		(at 93.98 177.8 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "107ba0ce-a10b-4ab0-95c5-1b1dfc01a58d")
+	)
 	(hierarchical_label "D"
 		(shape output)
 		(at 134.62 133.35 0)
@@ -4215,17 +4237,6 @@
 			(justify left)
 		)
 		(uuid "21e724dc-986e-4458-a726-0bc3f50d8fe5")
-	)
-	(hierarchical_label "D0"
-		(shape input)
-		(at 93.98 177.8 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "2bc3c490-fcbb-42c3-acd1-4c80d9a27725")
 	)
 	(hierarchical_label "D2"
 		(shape input)
@@ -4260,6 +4271,17 @@
 		)
 		(uuid "635741b0-9d44-4ab9-9515-9c9ba324b84b")
 	)
+	(hierarchical_label "D0"
+		(shape input)
+		(at 93.98 182.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "87dd7c67-a74e-493d-a007-38d4f60e2c78")
+	)
 	(hierarchical_label "F"
 		(shape output)
 		(at 264.16 74.93 0)
@@ -4281,17 +4303,6 @@
 			(justify left)
 		)
 		(uuid "b1215f6f-b929-4403-b3ac-172d05f76a64")
-	)
-	(hierarchical_label "D3"
-		(shape input)
-		(at 127 182.88 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bbf1e573-9307-4bc4-ac48-fe6ebb969f09")
 	)
 	(hierarchical_label "D2"
 		(shape input)
@@ -4315,28 +4326,6 @@
 		)
 		(uuid "d6397340-fa37-4cde-90c2-9e0b49f6b924")
 	)
-	(hierarchical_label "D1"
-		(shape input)
-		(at 93.98 182.88 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d7028da3-b43f-4660-ac4e-f93e89e70345")
-	)
-	(hierarchical_label "D2"
-		(shape input)
-		(at 127 177.8 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "df30b1e0-611a-4a87-8892-1ede937663b1")
-	)
 	(hierarchical_label "E"
 		(shape output)
 		(at 233.68 46.99 0)
@@ -4358,6 +4347,17 @@
 			(justify left)
 		)
 		(uuid "ed1368d4-05c2-45ad-8a57-77d280f11e17")
+	)
+	(hierarchical_label "D2"
+		(shape input)
+		(at 127 182.88 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ef6a8de1-809e-4d43-8a9a-dbe9a133a795")
 	)
 	(hierarchical_label "D1"
 		(shape input)
