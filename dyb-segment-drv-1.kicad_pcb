@@ -517,7 +517,7 @@
 	(footprint "GLCS:KYOCERA_AVX9159-006"
 		(layer "F.Cu")
 		(uuid "0196c8a1-57eb-4010-ada7-b318cd8eaa08")
-		(at 101.75 68 90)
+		(at 111 56.5 90)
 		(descr "board to board 10 pin edge connector https://www.kyocera-avx.com/download/connectors/Conn-Sales-Drawings/9XXX/9159-06X.zip")
 		(tags "edge b2b")
 		(property "Reference" "J1"
@@ -51636,6 +51636,142 @@
 			(uuid "589a884f-9723-41ab-a485-888bcd42e5a5")
 		)
 		(embedded_fonts no)
+	)
+	(gr_arc
+		(start 110 24)
+		(mid 111.464466 20.464466)
+		(end 115 19)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "62eb851a-6776-429f-b71a-042cb7b2721e")
+	)
+	(gr_line
+		(start 110 52.671573)
+		(end 110 24)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "ed2928d7-5004-4b0c-a0d4-548353578de6")
+	)
+	(gr_line
+		(start 110 66.328427)
+		(end 110 90)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "2613d707-e1ad-43eb-9f86-ec791ecee5ca")
+	)
+	(gr_arc
+		(start 110 66.328427)
+		(mid 110.152232 65.563054)
+		(end 110.585787 64.914213)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "0f8753ea-eb55-481e-a2dc-683cc3678005")
+	)
+	(gr_arc
+		(start 110.585787 54.085787)
+		(mid 110.15225 53.436939)
+		(end 110 52.671573)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "16bc4f96-2807-41b3-b97e-c1057c737bd4")
+	)
+	(gr_line
+		(start 110.585787 54.085787)
+		(end 111 54.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "caffef4f-66de-46e3-8dcf-dcf6f2d8d1a8")
+	)
+	(gr_line
+		(start 110.585787 64.914213)
+		(end 111 64.5)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "dbac6f3b-a33f-406e-90ba-381900232c96")
+	)
+	(gr_line
+		(start 115 19)
+		(end 181 19)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "e3686580-5baf-45cf-8331-80bf42782f77")
+	)
+	(gr_arc
+		(start 115 95)
+		(mid 111.464466 93.535534)
+		(end 110 90)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "aae0ab11-bb72-4ac4-91c8-67961e4c7c8d")
+	)
+	(gr_arc
+		(start 181 19)
+		(mid 184.535534 20.464466)
+		(end 186 24)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f1d29475-429f-4c51-8f53-072f6a7efb24")
+	)
+	(gr_line
+		(start 181 95)
+		(end 115 95)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "f1f34d1c-20a5-4f79-84a7-d9cf5f697faf")
+	)
+	(gr_line
+		(start 186 24)
+		(end 186 90)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "66f526b0-9760-4f61-b58a-6d6c2caca86c")
+	)
+	(gr_arc
+		(start 186 90)
+		(mid 184.535534 93.535534)
+		(end 181 95)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(layer "Edge.Cuts")
+		(uuid "bb4f9290-419f-4105-ba43-ed6d6fbaf093")
 	)
 	(segment
 		(start 143 61.75)
