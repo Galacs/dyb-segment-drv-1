@@ -1321,56 +1321,10 @@
 		)
 	)
 	(junction
-		(at 231.14 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0afc4049-1eca-4ee1-a048-3d31c24b3ef0")
-	)
-	(junction
-		(at 215.9 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "46b080d2-744b-4f0d-af25-eb716a384571")
-	)
-	(junction
-		(at 226.06 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4b63f184-95e0-44e2-a4ca-06b8dfc57710")
-	)
-	(junction
-		(at 220.98 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6868d7b8-fa1c-481d-8ccc-953ba92abbeb")
-	)
-	(junction
-		(at 226.06 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6c6e632b-7f9a-4e9c-99a2-4437383aa578")
-	)
-	(junction
 		(at 215.9 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8aedbe9c-06f2-4fe4-88db-5990682b9b68")
-	)
-	(junction
-		(at 220.98 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "cea12220-6c9a-449f-9bc7-acc414fd9fb3")
-	)
-	(wire
-		(pts
-			(xy 215.9 97.79) (xy 215.9 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02e89ac2-d808-4aa3-ab18-27d9bb435112")
 	)
 	(wire
 		(pts
@@ -1504,36 +1458,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 88.9) (xy 220.98 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2232ef4a-3aa3-44e4-b66a-753372220c5b")
-	)
-	(wire
-		(pts
-			(xy 226.06 88.9) (xy 226.06 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "230ba3f8-b7c9-4f4c-8944-22ec580e2d04")
-	)
-	(wire
-		(pts
-			(xy 215.9 99.06) (xy 220.98 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "261f5a68-f6d9-4f67-98e7-aaaa6fc314e4")
-	)
-	(wire
-		(pts
 			(xy 199.39 86.36) (xy 181.61 86.36)
 		)
 		(stroke
@@ -1574,26 +1498,6 @@
 	)
 	(wire
 		(pts
-			(xy 220.98 99.06) (xy 226.06 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a39a430-7787-441d-bab7-7cfb5c663137")
-	)
-	(wire
-		(pts
-			(xy 226.06 99.06) (xy 231.14 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3a621124-7779-4415-a66a-18781a507cfa")
-	)
-	(wire
-		(pts
 			(xy 73.66 113.03) (xy 73.66 114.3)
 		)
 		(stroke
@@ -1624,16 +1528,6 @@
 	)
 	(wire
 		(pts
-			(xy 226.06 97.79) (xy 226.06 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "40355226-e4f8-485c-b531-38259846395d")
-	)
-	(wire
-		(pts
 			(xy 157.48 114.3) (xy 156.21 114.3)
 		)
 		(stroke
@@ -1641,16 +1535,6 @@
 			(type default)
 		)
 		(uuid "40c2089e-7344-4a09-ad63-6f07ef02890b")
-	)
-	(wire
-		(pts
-			(xy 220.98 88.9) (xy 226.06 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "490d1eff-cac1-4b55-96f8-874ac740e7e4")
 	)
 	(wire
 		(pts
@@ -1671,16 +1555,6 @@
 			(type default)
 		)
 		(uuid "54e2be71-2b15-45ea-9279-edb34eccca2b")
-	)
-	(wire
-		(pts
-			(xy 215.9 88.9) (xy 220.98 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "588cf8a8-1986-4cc7-9555-c3d2bba0fff9")
 	)
 	(wire
 		(pts
@@ -1774,16 +1648,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 99.06) (xy 231.14 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "811a859f-cf06-4ea0-86f4-42456ae8647a")
-	)
-	(wire
-		(pts
 			(xy 156.21 113.03) (xy 156.21 114.3)
 		)
 		(stroke
@@ -1801,16 +1665,6 @@
 			(type default)
 		)
 		(uuid "88a28825-09cf-4c53-8f20-7a60c8f3f322")
-	)
-	(wire
-		(pts
-			(xy 220.98 97.79) (xy 220.98 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e0eb481-b795-42e8-bfef-9fd2e2154f5f")
 	)
 	(wire
 		(pts
@@ -1874,7 +1728,7 @@
 	)
 	(wire
 		(pts
-			(xy 236.22 88.9) (xy 236.22 87.63)
+			(xy 220.98 88.9) (xy 220.98 87.63)
 		)
 		(stroke
 			(width 0)
@@ -1944,16 +1798,6 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 88.9) (xy 231.14 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b600798a-4e18-476a-924f-87e36da481ec")
-	)
-	(wire
-		(pts
 			(xy 165.1 97.79) (xy 165.1 99.06)
 		)
 		(stroke
@@ -1971,16 +1815,6 @@
 			(type default)
 		)
 		(uuid "b9fa1c91-f04c-4607-afcd-15a638a4b420")
-	)
-	(wire
-		(pts
-			(xy 226.06 88.9) (xy 231.14 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ce5c553a-6aa2-4424-83df-47939fa32a8e")
 	)
 	(wire
 		(pts
@@ -2034,7 +1868,7 @@
 	)
 	(wire
 		(pts
-			(xy 231.14 88.9) (xy 236.22 88.9)
+			(xy 215.9 88.9) (xy 220.98 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2044,7 +1878,7 @@
 	)
 	(wire
 		(pts
-			(xy 215.9 100.33) (xy 215.9 99.06)
+			(xy 215.9 97.79) (xy 215.9 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3379,264 +3213,6 @@
 				)
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/c18e9c5d-9680-45b1-9de5-05069c52084b"
 					(reference "R22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 220.98 93.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6ba49885-5d3a-4f84-bb84-f0aa0c3a2e30")
-		(property "Reference" "C4"
-			(at 223.012 83.566 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10u"
-			(at 223.012 86.106 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 221.9452 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 220.98 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 220.98 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Basic" "Y"
-			(at 220.98 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Part #" "C440198"
-			(at 220.98 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 220.98 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "GRM21BR61H106KE43L"
-			(at 220.98 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "eeb6b5f6-ad95-4fe9-a3df-d98e28547402")
-		)
-		(pin "1"
-			(uuid "aaaf74d6-5765-49ec-b7ed-bbc4149063a2")
-		)
-		(instances
-			(project "dyb-segment-drv-1"
-				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
-					(reference "C4")
-					(unit 1)
-				)
-				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/c18e9c5d-9680-45b1-9de5-05069c52084b"
-					(reference "C32")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 226.06 93.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "6c72b203-c560-43e4-8660-37619244629f")
-		(property "Reference" "C5"
-			(at 228.092 83.566 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10u"
-			(at 228.092 86.106 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 227.0252 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 226.06 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 226.06 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Basic" "Y"
-			(at 226.06 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Part #" "C440198"
-			(at 226.06 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 226.06 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "GRM21BR61H106KE43L"
-			(at 226.06 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "52b77f87-c43e-488b-8c75-2162cb6f5cc1")
-		)
-		(pin "1"
-			(uuid "b3eb51d6-08ab-4e9c-8b45-2b72391206d1")
-		)
-		(instances
-			(project "dyb-segment-drv-1"
-				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
-					(reference "C5")
-					(unit 1)
-				)
-				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/c18e9c5d-9680-45b1-9de5-05069c52084b"
-					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -5543,7 +5119,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 236.22 87.63 0)
+		(at 220.98 87.63 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5553,7 +5129,7 @@
 		(dnp no)
 		(uuid "cb756b46-109f-4a6e-a182-822b7847d8f0")
 		(property "Reference" "#PWR019"
-			(at 236.22 91.44 0)
+			(at 220.98 91.44 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5564,7 +5140,7 @@
 			)
 		)
 		(property "Value" "+BATT"
-			(at 236.474 82.804 0)
+			(at 222.758 83.312 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5574,7 +5150,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 236.22 87.63 0)
+			(at 220.98 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5585,7 +5161,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 236.22 87.63 0)
+			(at 220.98 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5596,7 +5172,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 236.22 87.63 0)
+			(at 220.98 87.63 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6321,135 +5897,6 @@
 				)
 				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/c18e9c5d-9680-45b1-9de5-05069c52084b"
 					(reference "#PWR0102")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 231.14 93.98 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e918ddc0-09f1-4b22-9707-7af002e454a0")
-		(property "Reference" "C6"
-			(at 233.172 83.566 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "10u"
-			(at 233.172 86.106 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 232.1052 97.79 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 231.14 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 231.14 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Basic" "Y"
-			(at 231.14 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLCPCB Part #" "C440198"
-			(at 231.14 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer" "Murata"
-			(at 231.14 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part Number" "GRM21BR61H106KE43L"
-			(at 231.14 93.98 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "aa55f641-7d85-40ef-8f04-42e5dc463645")
-		)
-		(pin "1"
-			(uuid "6cee5ee1-cc28-4a21-8d95-44b6ad656348")
-		)
-		(instances
-			(project "dyb-segment-drv-1"
-				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/87467506-67cb-4d30-a7bb-1a482c54d28a"
-					(reference "C6")
-					(unit 1)
-				)
-				(path "/0d1f997b-7d97-47c3-85c1-1ce9346504d0/c18e9c5d-9680-45b1-9de5-05069c52084b"
-					(reference "C34")
 					(unit 1)
 				)
 			)
